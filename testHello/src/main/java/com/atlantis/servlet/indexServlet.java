@@ -22,7 +22,7 @@ public class indexServlet extends HttpServlet {
 		PrintWriter writer = response.getWriter();
 		writer.println("success");
 		writer.close();
-		System.out.println("hello world");
+		System.out.println("hello gtgrf");
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
